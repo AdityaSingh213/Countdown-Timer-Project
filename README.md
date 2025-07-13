@@ -19,4 +19,4 @@ The goal of this project is to create a countdown timer that allows users to sel
 - Message displayed when the countdown reaches zero
 
   ## Live Demo
-👉 [Click here to view it live]
+👉 [Click here to view it live] https://adityasingh213.github.io/Countdown-Timer-Project/
