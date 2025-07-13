@@ -10,7 +10,7 @@ The goal of this project is to create a countdown timer that allows users to sel
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## 📌 Features
 
